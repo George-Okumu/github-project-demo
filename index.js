@@ -1,0 +1,1 @@
+echo = "Demo project to show case project implementation"
